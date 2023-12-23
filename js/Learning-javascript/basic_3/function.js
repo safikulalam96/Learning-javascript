@@ -16,7 +16,7 @@ function checking(username){
 console.log(checking())
 
 
-                /*********************************MORE ABOUT FUNCTION**********************************/
+/*********************************MORE ABOUT FUNCTION**********************************/
 // passing values by objects to function and accessing it
 function accessingbyobj(user){
     return `the username is ${user.userkanamm} and has to pay ${user.price}`
