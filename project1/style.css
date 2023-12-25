@@ -9,18 +9,16 @@ h1 {
   margin-top: 10%;
   text-align: center;
 }
-/* .main {
-  margin-top: 10%;
-  display: flex;
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-} */
+
 .divcolor {
   height: 100px;
   width: 100px;
   border: 2px solid;
-  margin-left: 10px;
+}
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #g {
@@ -30,10 +28,10 @@ h1 {
 
 #d {
   margin-left: 20px;
-  background-color: black;
+  background-color: rgb(253, 14, 14);
 }
 
 #l {
   margin-left: 20px;
-  background-color: white;
+  background-color: rgb(231, 206, 22);
 }

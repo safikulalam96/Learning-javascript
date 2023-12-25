@@ -12,10 +12,10 @@ buttons.forEach(function (button) {
     }
 
     if (e.target.id === 'l') {
-      body.style.backgroundColor = 'white';
+      body.style.backgroundColor = 'yellow';
     }
     if (e.target.id === 'd') {
-      body.style.backgroundColor = 'black';
+      body.style.backgroundColor = 'brown';
     }
     
   });
