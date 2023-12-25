@@ -20,17 +20,20 @@ h1 {
   height: 100px;
   width: 100px;
   border: 2px solid;
-  margin-left: 10%;
+  margin-left: 10px;
 }
 
 #g {
+  margin-left: 20px;
   background-color: green;
 }
 
 #d {
+  margin-left: 20px;
   background-color: black;
 }
 
 #l {
+  margin-left: 20px;
   background-color: white;
 }
