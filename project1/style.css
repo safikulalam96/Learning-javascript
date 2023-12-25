@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+    background-color: rgb(121, 187, 165);
+}
+h1 {
+  margin-top: 10%;
+  text-align: center;
+}
+/* .main {
+  margin-top: 10%;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+} */
+.divcolor {
+  height: 100px;
+  width: 100px;
+  border: 2px solid;
+  margin-left: 10%;
+}
+
+#g {
+  background-color: green;
+}
+
+#d {
+  background-color: black;
+}
+
+#l {
+  background-color: white;
+}
