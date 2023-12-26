@@ -8,8 +8,6 @@ var year=data.getFullYear();
 date.innerText=(day+"/"+month+"/"+year)
 
 setInterval(function() {
-    let date=new Date();
-  
+    let date=new Date(); 
     time.innerHTML=date.toLocaleTimeString();
-    
 }, 1000);
